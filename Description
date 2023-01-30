@@ -1,0 +1,2 @@
+it is a web calculator made using java as backend (java springboot project) and javascript, CSS, HTML as frontend (vue.js project) 
+it is made to learn about Model view controller architecture (frontend separated from backend only communicate through rest api as get request and post request)
